@@ -1,3 +1,6 @@
+/**
+ * This is a sample use case of `heroes` state
+ */
 import { all, call, fork, put, takeEvery } from 'redux-saga/effects'
 import { HeroesActionTypes } from './types'
 import { fetchError, fetchSuccess } from './actions'

@@ -1,3 +1,6 @@
+/**
+ * This is a sample use case of `heroes` state
+ */
 import { Reducer } from 'redux'
 import { HeroesState, HeroesActionTypes } from './types'
 

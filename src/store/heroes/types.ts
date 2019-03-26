@@ -1,4 +1,7 @@
-// This file holds our state type, as well as any other types related to this Redux store.
+/**
+ * This file holds our state type, as well as any other types related to this Redux store.
+ * This is a sample use case of `heroes` state
+ */
 
 /**
  * Response object for GET /heroes
