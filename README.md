@@ -11,3 +11,6 @@
 ### Resources 
 - https://facebook.github.io/create-react-app/docs/adding-typescript
 - https://dev.to/robertcoopercode/using-eslint-and-prettier-in-a-typescript-project-53jb
+- https://redux.js.org/recipes/usage-with-typescript
+- https://github.com/piotrwitek/react-redux-typescript-guide
+- https://github.com/resir014/react-redux-typescript-example
