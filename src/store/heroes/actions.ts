@@ -1,3 +1,6 @@
+/**
+ * This is a sample use case of `heroes` state
+ */
 import { action } from 'typesafe-actions'
 import { HeroesActionTypes, Hero } from './types'
 
